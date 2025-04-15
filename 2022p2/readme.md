@@ -25,5 +25,5 @@
 ---
 ### Final Processing
 
-<img src="https://github.com/user-attachments/assets/91085df6-0578-438d-ac9f-18fa4e2c45d5" width=650>
+<img src="https://github.com/user-attachments/assets/35a8ecc6-d781-497f-a416-3b44803d81ca" width=650>
  
