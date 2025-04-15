@@ -21,7 +21,7 @@
 $ ./FPGAs_AdaptiveSoCs_Unified_2024.2.2_0306_2141_Lin64.bin
 ```
 
-
+---
 ### User Authentication
 
 <img src="https://github.com/user-attachments/assets/d9a6371f-4206-42b2-bbe1-0163aa538dcf" width=750>
