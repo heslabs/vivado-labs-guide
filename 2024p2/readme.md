@@ -55,6 +55,10 @@ $ ./FPGAs_AdaptiveSoCs_Unified_2024.2.2_0306_2141_Lin64.bin
 <img src="https://github.com/user-attachments/assets/09f203aa-caac-45c1-a335-9df7962ff624" width=750>
 
 
+---
+### Tool Installation Completed
+<img src="https://github.com/user-attachments/assets/096358ce-23e6-451c-9982-d07a9f9cb230" width=750>
+
  
 ---
 ### Troubshooting
