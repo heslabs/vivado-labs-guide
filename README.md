@@ -2,7 +2,17 @@
 
 
 ---
-### Download Xilinx Tools 
+### Download Vitis 2022.2
+https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/archive-vitis.html
+
+* Vitis Core Development Kit - 2022.2  Full Product Installation
+  * Xilinx Unified Installer 2022.2: Linux Self Extracting Web Installer (BIN - 271.02 MB)
+* Vitis Core Development Kit Update 2 - 2022.2  Product Update
+  * Xilinx Unified 2022.2.2 : All OS installer Single-File Download (TAR/GZIP - 18.88 GB)
+  
+---
+### Download Vitis 2024.2
+https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/2024-2.html
 
 * Xilinx Tools Download
   * https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/2024-2.html*
@@ -10,6 +20,7 @@
   * AMD Unified Installer for FPGAs & Adaptive SoCs 2024.2: Linux Self Extracting Web Installer (BIN - 303.93 MB)
 * Vitis™ Core Development Kit Update 2 - 2024.2  Product Update
   * AMD Unified Installer for FPGAs & Adaptive SoCs 2024.2.2: Linux Self Extracting Web Installer (BIN - 304.34 MB)
+
 
 ---
 ### Xilinx Tools Installation
