@@ -12,5 +12,5 @@
 ---
 ### Setup Vitis License
 
-* Get Evaluation license
+* Create New license and Manage Licenses
    * https://github.com/heslabs/vivado-labs-guide/edit/main/license/readme.md
