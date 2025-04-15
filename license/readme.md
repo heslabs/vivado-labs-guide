@@ -26,18 +26,18 @@ https://amd.entitlenow.com/AcrossUser/main.gsp?
 ---
 ### 3. Comments
 
-![image](https://github.com/user-attachments/assets/6704a2c9-318d-49ea-97ed-679775412f4f)
+<img src="https://github.com/user-attachments/assets/6704a2c9-318d-49ea-97ed-679775412f4f" width=650>
 
 
 ---
 ### 4. Review License Request
 
-<img src="https://github.com/user-attachments/assets/ec1f8d2b-a9a6-4157-a49c-5b53a47dca00" width=750>
+<img src="https://github.com/user-attachments/assets/ec1f8d2b-a9a6-4157-a49c-5b53a47dca00" width=650>
 
  
 ---
 ### 5. Generate license and email to AMD account
 
-<img src="https://github.com/user-attachments/assets/4b5672e6-651f-4268-8de2-b626adb95bdd" width=750>
+<img src="https://github.com/user-attachments/assets/4b5672e6-651f-4268-8de2-b626adb95bdd" width=650>
 
 
