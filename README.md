@@ -1,4 +1,4 @@
-# vivado-labs-guide
+# Vivado Labs Guide
 
 * Vivado 2022.2 Installation
     * https://github.com/heslabs/vivado-labs-guide/tree/main/2022p2
