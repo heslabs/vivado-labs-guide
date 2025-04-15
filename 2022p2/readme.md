@@ -1,5 +1,13 @@
 # Vivado 2022.2
- 
+
+---
+### Download Vitis 2022.2 [[Website]](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/archive-vitis.html)
+
+* Vitis Core Development Kit - 2022.2  Full Product Installation
+  * Xilinx Unified Installer 2022.2: Linux Self Extracting Web Installer (BIN - 271.02 MB)
+* Vitis Core Development Kit Update 2 - 2022.2  Product Update
+  * Xilinx Unified 2022.2.2 : All OS installer Single-File Download (TAR/GZIP - 18.88 GB)
+    
 ---
 ### Download Installer
 <img src="https://github.com/user-attachments/assets/c09a0a02-4c7a-49f0-886c-63a784a6d73a" width=750>
