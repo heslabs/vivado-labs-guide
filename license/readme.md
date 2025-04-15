@@ -41,3 +41,26 @@ https://amd.entitlenow.com/AcrossUser/main.gsp?
 <img src="https://github.com/user-attachments/assets/4b5672e6-651f-4268-8de2-b626adb95bdd" width=650>
 
 
+---
+### 6. Manage License
+
+<img src="https://github.com/user-attachments/assets/2c8d7c40-d9ef-484f-a7a4-e4ffa22245e9" width=650>
+
+---
+### 7. Load License
+<img src="https://github.com/user-attachments/assets/e8b1f727-32ce-4058-bbb9-3808e5c9ffdd" width=650>
+
+---
+### 8. Load License Successfully
+
+<img src="https://github.com/user-attachments/assets/6cf89237-1f27-492c-908a-4b49343d6e83" width=650>
+
+
+---
+### 9. View License Status
+
+<img src="https://github.com/user-attachments/assets/fb588777-860c-4522-a913-6c6f4e2f8bba" width=650>
+
+
+
+
