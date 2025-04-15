@@ -15,6 +15,12 @@
 
 
 ---
+### User Authentication
+
+<img src="https://github.com/user-attachments/assets/d9a6371f-4206-42b2-bbe1-0163aa538dcf" width=750>
+
+
+---
 ### Select Product to Install
 
 <img src="https://github.com/user-attachments/assets/174b7b8a-7fc4-494b-b189-1253cfddcf82" width=750>
@@ -43,5 +49,16 @@
 
 
  
+---
+### Troubshooting
+
+
+```
+INFO Could not detect the display scale (hDPI).
+       If you are using a high resolution monitor, you can set the installer scale factor like this: 
+       export XINSTALLER_SCALE=2
+       setenv XINSTALLER_SCALE 2
+```
+
 
 
