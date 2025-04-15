@@ -17,6 +17,17 @@ https://amd.entitlenow.com/AcrossUser/main.gsp?
 
 <img src="https://github.com/user-attachments/assets/bccabbe0-ee16-4784-baaf-20e252980ae0" width=650>
 
+---
+### 1. Product Selection
+
+---
+### 2. System Information
+
+---
+### 3. Comments
+
+![image](https://github.com/user-attachments/assets/6704a2c9-318d-49ea-97ed-679775412f4f)
+
 
 ---
 ### 4. Review License Request
