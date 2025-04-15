@@ -7,6 +7,8 @@
 
  
 ---
+### 5. Generate license and email to AMD account
+
 <img src="https://github.com/user-attachments/assets/4b5672e6-651f-4268-8de2-b626adb95bdd" width=750>
 
 
